@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sää Sovellus</string>
+    <string name="update">Päivitä</string>
+    <string name="forecast">Sääennuste</string>
+    <string name="clear">Kirkas</string>
+    <string name="clouds">Pilvistä</string>
+    <string name="rain">Sade</string>
+    <string name="drizzle">Kevyt Sade</string>
+    <string name="thunder">Ukkonen</string>
+    <string name="snow">Lumisade</string>
+    <string name="mist">Sumu</string>
+    <string name="ash">Tuhka</string>
+    <string name="dust">Pöly</string>
+    <string name="tornado">Pyörremyrsky</string>
+    <string name="smoke">Savu</string>
+    <string name="haze">Usva</string>
+    <string name="squall">Ukkoskuuro</string>
+    <string name="sand">Hiekkaa</string>
+    <string name="temperature">Lämpötila</string>
+    <string name="wind_speed">Tuulen nopeus</string>
+    <string name="weather_description">Sään kuvaus</string>
+    <string name="city">Kaupunki</string>
+    <string name="celcius">Celciusta</string>
+    <string name="meters_seconds">Metriä sekunnissa</string>
+    <string name="time">Aika</string>
+    <string name="latitude">Leveysaste</string>
+    <string name="longitude">Pituusaste</string>
+    <string name="country">Maa</string>
+    <string name="location_error">Sijainti Virhe</string>
+    <string name="c">C</string>
+    <string name="m_s">m/s</string>
+</resources>
